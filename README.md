@@ -4,8 +4,6 @@ Welcome to the Diya Creation project! This project demonstrates how to create a 
 Table of Contents
 Introduction
 Features
-Prerequisites
-Installation
 Usage
 Project Structure
 Contributing
@@ -23,18 +21,8 @@ To view and edit this project, you need:
 
 A web browser (e.g., Google Chrome, Firefox)
 A text editor or IDE (e.g., VS Code, Sublime Text)
-Installation
-Clone the Repository
-sh
-Copy code
-git clone https://github.com/your-username/diya-creation.git
-Navigate to the Project Directory
-sh
-Copy code
-cd diya-creation
 Usage
 To view the diya, open the index.html file in your web browser. You can do this by double-clicking the file or using the following command in your terminal:
-
 sh
 Copy code
 open index.html
@@ -60,8 +48,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For any questions or feedback, please contact:
-
-Name: Your Name
-Email: your.email@example.com
-GitHub: your-username
-Thank you for checking out the Diya Creation project! Enjoy creating beautiful DIYA designs with HTML and CSS.
